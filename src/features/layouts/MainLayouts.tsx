@@ -11,6 +11,8 @@ function MainLayouts() {
      <Outlet />
     </div>
 
+
+
     <Footer />
     
     </div>;
